@@ -1,0 +1,27 @@
+hrobben@mborijnland.nl
+-symphany leren gebruiken
+
+-excelent taste
+-
+-reservering met datum en reden waarom iemand niet kon komen
+-bestellingen 
+- lijstje bestellingen kok/bar op binnenkomst order met optie voor vinkje wanneer klaar
+- 
+<eerste opdracht misschien>
+-xampp & visual code 
+-composer & symfony( exe bestand slepen naar  gebruiken xampp/php map )
+-database inrichten
+-hoofdmenu maken 
+     -bootstrap gebruiken 
+
+-mpdf voor pdf printen 
+-wanneer pdf printen niet lukt overzicht pagina uitprinten voor overtuigen examinator
+
+bon uitprinten als pdf (MPDF)(Javascript code van california)
+
+-Rollen systeem oefenen
+
+-Database exporteren en toevoegen 
+
+-kwaliteitshandboek? Hierbij noteert hij de specificaties, inloggegevens, databasegegevens, 
+aanpassingen, eisen en wijzigingen en voert versiebeheer door.
