@@ -1,0 +1,8 @@
+<select name = 'subject[]' > 
+         <?php
+         
+         foreach($db->showType("subject") as $value){; 
+           
+       echo "<option value='". $value['id'] ."'>" .$value['subject_name'] ; 
+       
+        }
